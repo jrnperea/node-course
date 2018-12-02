@@ -1,7 +1,7 @@
 let nombre = 'Wolverine';
 
 if (true) {
-    let nombre = 'Magneto'
+    nombre = 'Magneto'
 }
 
 console.log(nombre);
